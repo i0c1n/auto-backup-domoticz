@@ -26,7 +26,7 @@ $ sudo apt install cifs-utils
 
 1)  Avant la création du script, il faut d’abord créer un répertoire (mnt/backup) qui sera ensuite monté sur le répertoire domoticz-backup de nom_du_serveur (Serveur) ou sera enregistré les backups.
   
-<a href="https://github.com/i0c1n/auto-backup-domoticz"><img src="/jpg/folder.png?raw=true" alt="Logo"
+<a href="https://github.com/i0c1n/auto-backup-domoticz"><img src="/jpg/folder.jpg?raw=true" alt="Logo"
   
     
     
