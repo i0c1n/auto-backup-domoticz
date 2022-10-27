@@ -3,7 +3,7 @@ script to auto backup db file to network windows drive (cifs)
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/i0c1n/auto-backup-domoticz"><img src="/screen.jpg?raw=true" alt="Logo" 
+  <a href="https://github.com/i0c1n/auto-backup-domoticz"><img src="/jpg/screen.jpg?raw=true" alt="Logo" 
  </h1>
 
 
