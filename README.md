@@ -23,6 +23,10 @@ $ sudo apt install cifs-utils
 
 ## Comment l'utiliser ?
     
- Pour effectuer un montage automatique du répertoire au démarrage la commande suivante :  //192.168.0.100/domoticz-backup /mnt/backup cifs username=backup.domoticz,password=pbGpAt8865dJyd 0 0  est ajouté dans le fichier de configuration fstab dans le répertoire /etc.
+ Pour effectuer un montage automatique du répertoire au démarrage la commande suivante 
+    
+ //192.168.0.100/domoticz-backup /mnt/backup cifs username=backup.domoticz,password=pbGpAt8865dJyd 0 0  est ajouté dans le fichier de configuration fstab dans le répertoire /etc.
+    
+    
     
     
