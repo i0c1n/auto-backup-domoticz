@@ -19,9 +19,10 @@ $ git clone https://github.com/i0c1n/auto-backup-domoticz
 # Dépendance nécessaires 
 $ sudo apt update
 $ sudo apt install cifs-utils   
-```
+
+    ```
     
-    ## Comment l'utiliser ?   
+## Comment l'utiliser ?   
     
     Ce script en bash permet d'enregistrer de façon automatique les fichiers de backup de base données domoticz sur un lecteur réseau windows.
     
