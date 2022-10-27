@@ -21,12 +21,9 @@ $ sudo apt update
 $ sudo apt install cifs-utils   
 
 
-## Comment l'utiliser ?
     
- Pour effectuer un montage automatique du répertoire au démarrage la commande suivante 
+    ## A Quoi sert ce script ?   
     
- //192.168.0.100/domoticz-backup /mnt/backup cifs username=backup.domoticz,password=pbGpAt8865dJyd 0 0  est ajouté dans le fichier de configuration fstab dans le répertoire /etc.
-    
-    
+    Ce script en bash permet d'enregistrer de façon automatique les fichiers de backup de base données domoticz sur un lecteur réseau windows.
     
     
