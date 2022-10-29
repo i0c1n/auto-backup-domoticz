@@ -69,6 +69,21 @@ L’exemple suivante permet de planifier l’exécution du script tous les jours
  </a>
  </h1>
     
+   <h1 align="center"><br>Création Script backup domoticz</br></h1>
+   
+   <br>Le script permettant d’effectuer les backups est en bash, voici la structure :</br>
     
-    
-    
+   <h1>
+  <a href="https://github.com/i0c1n/auto-backup-domoticz"><img src="/jpg/Capture3.jpg?raw=true" alt="Logo" 
+ </a>
+ </h1>
+
+La première ligne de commande va vérifier grâce à if si le fichier lundi.db existe dans le
+répertoire /mnt/backup/ si c’est le cas il affiche « base détectée ! ».
+Si le fichier n’existe pas dans le répertoire, avec Else (sinon) le script va afficher « base
+absente ! Téléchargement de la base… »
+  
+ <br>La commande curl va télécharger le fichier et l’enregistrer dans répertoire
+/mnt/backup/ et créer le fichier lundi.db
+Et fi pour fermer l’instruction.</br>
+
