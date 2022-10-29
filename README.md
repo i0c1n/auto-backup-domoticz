@@ -90,7 +90,7 @@ Et fi pour fermer l’instruction.</br></h4>
 <br>on peut ajouter une ligne qui permet de supprimer les bases enregistrer depuis plus de 7 jours.</br>
 
 <h1>
-  <a href="https://github.com/i0c1n/auto-backup-domoticz"><img src="/jpg/find.JPG?raw=true" alt="Logo" 
+  <a href="https://github.com/i0c1n/auto-backup-domoticz"><img src="/jpg/Capture.JPG?raw=true" alt="Logo" 
  </a>
  </h1>
   
