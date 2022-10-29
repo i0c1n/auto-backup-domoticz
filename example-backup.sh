@@ -3,7 +3,7 @@ if [ -e /mnt/backup/backup1.db ]; then
 
 else
        echo "Téléchargement de la base..."
-       curl -s http://192.168.1.193:8080/backupdatabase.php > /mnt/backup/backup1.db
+       curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/backup1.db
 
 
 
