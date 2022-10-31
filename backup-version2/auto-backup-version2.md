@@ -20,6 +20,8 @@ Ceci est une deuxième version du 1er script, le script se base sur le premier a
  </a>
  </h1>
     
+    J'ai rajouter la commande sleep qui permet de mettre un temps de repot entre chaque backup avec 86400 secondes qui correspond à 24h.
+    
     On va lancer le script une fois avec la commande ./script.sh &
     il va ensuite tourner en arrière plan et tout faire de façon transparente.
   
