@@ -5,6 +5,7 @@ else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour1.db
 
+sleep 86400
 fi 
 
 
@@ -15,6 +16,7 @@ else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour2.db
 
+sleep 86400
 fi 
 
 
@@ -26,6 +28,7 @@ else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour3.db
 
+sleep 86400
 fi 
 
 
@@ -37,6 +40,7 @@ else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour4.db
 
+sleep 86400
 fi 
 
 
@@ -48,6 +52,7 @@ else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour5.db
 
+sleep 86400
 fi 
 
 
@@ -60,6 +65,7 @@ else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour6.db
 
+sleep 86400
 fi 
 
 
@@ -72,6 +78,7 @@ else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour7.db
 
+sleep 86400
 fi 
 
 
@@ -82,6 +89,7 @@ else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour8.db
 
+sleep 86400
 fi 
 
 
@@ -93,6 +101,7 @@ else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour9.db
 
+sleep 86400
 fi 
 
 
@@ -104,6 +113,7 @@ else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour10.db
 
+sleep 86400
 fi 
 
 
@@ -113,6 +123,8 @@ if [ -e /mnt/backup/jour11.db ]; then
 else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour11.db
+
+sleep 86400
 
 fi 
 
@@ -124,6 +136,7 @@ else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour12.db
 
+sleep 86400
 fi 
 
 
@@ -134,6 +147,7 @@ else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour13.db
 
+sleep 86400
 fi 
 
 
@@ -144,6 +158,7 @@ else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour14.db
 
+sleep 86400
 fi 
 
 
@@ -154,6 +169,7 @@ else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour15.db
 
+sleep 86400
 fi 
 
 
@@ -165,6 +181,7 @@ else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour16.db
 
+sleep 86400
 fi 
 
 
@@ -175,6 +192,7 @@ else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour17.db
 
+sleep 86400
 fi 
 
 
@@ -186,6 +204,7 @@ else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour18.db
 
+sleep 86400
 fi 
 
 
@@ -197,6 +216,7 @@ else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour19.db
 
+sleep 86400
 fi 
 
 
@@ -208,6 +228,7 @@ else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour20.db
 
+sleep 86400
 fi 
 
 
@@ -219,6 +240,7 @@ else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour21.db
 
+sleep 86400
 fi 
 
 
@@ -229,6 +251,7 @@ else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour22.db
 
+sleep 86400
 fi 
 
 
@@ -240,6 +263,7 @@ else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour23.db
 
+sleep 86400
 fi 
 
 
@@ -250,6 +274,8 @@ if [ -e /mnt/backup/jour24.db ]; then
 else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour24.db
+
+sleep 86400
 
 fi 
 
@@ -262,6 +288,7 @@ else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour25.db
 
+sleep 86400
 fi 
 
 
@@ -273,6 +300,7 @@ else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour26.db
 
+sleep 86400
 fi 
 
 
@@ -284,6 +312,7 @@ else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour27.db
 
+sleep 86400
 fi 
 
 
@@ -296,6 +325,7 @@ else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour28.db
 
+sleep 86400
 fi 
 
 
@@ -308,7 +338,8 @@ else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour29.db
 
-fi 
+sleep 86400
+fi
 
 
 
@@ -319,8 +350,12 @@ else
        echo "Téléchargement de la base..."
        curl -s http://192.168.1.1:8080/backupdatabase.php > /mnt/backup/jour30.db
 
+sleep 86400
 fi 
+
 find mnt/backup/lundi.db -mtime +15 rm {} \;
+
+
 
 
 
