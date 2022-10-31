@@ -19,6 +19,9 @@ Ceci est une deuxième version du 1er script, le script se base sur le premier a
   <a href="https://github.com/i0c1n/auto-backup-domoticz"><img src="/jpg/script2.JPG?raw=true" alt="Logo" 
  </a>
  </h1>
+    
+    On va lancer le script une fois avec la commande ./script.sh &
+    il va ensuite tourner en arrière plan et tout faire de façon transparente.
   
   La ligne qui va être modifier dans le fichier crontab sera le suivant : 
   
@@ -28,6 +31,8 @@ Ceci est une deuxième version du 1er script, le script se base sur le premier a
  </h1>
      
      Cela va indiquer au script de se lancer le premier jour du mois a 00h.
+       
+     
      
      
 
