@@ -1,5 +1,5 @@
 # auto-backup-domoticz
-script to auto backup db file to network windows drive (cifs)
+
 
 
 
